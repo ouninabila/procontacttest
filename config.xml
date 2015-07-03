@@ -2,7 +2,7 @@
 <widget id="com.agameoftwohalves.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
     <name>Prcontact</name>
-    <description>Latest from the Last Word on Football</description>
+    <description>Procontact</description>
     <author email="chris@" href="http://www.lesproduweb.com">Lesproduweb.com</author>
 
     <preference name="phonegap-version" value="3.3.0" />
